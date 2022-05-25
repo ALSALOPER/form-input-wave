@@ -77,7 +77,7 @@ body {
 .form-control input:focus,
 .form-control input:valid {
   outline: 0;
-  border-bottom-color: #ad886e;
+  border-bottom-color: #fcd7b6;
 }
 
 .form-control label {
