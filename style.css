@@ -79,3 +79,10 @@ body {
   outline: 0;
   border-bottom-color: #ad886e;
 }
+
+.form-control label {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  pointer-events: none;
+}
